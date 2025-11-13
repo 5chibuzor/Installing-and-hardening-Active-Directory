@@ -107,5 +107,3 @@ Result: USB and external drives are disabled for all users in the **Accounts OU*
 **Emmanuel Chibuzor**  
 Cybersecurity Analyst  
 
-**Aliu B. Sanusi**  
-Cybersecurity Analyst  
